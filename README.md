@@ -1,2 +1,2 @@
-This project is very hard
-fuck
+This project is very hard.
+fuck.
